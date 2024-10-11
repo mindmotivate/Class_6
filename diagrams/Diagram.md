@@ -13,7 +13,7 @@
 - **Public Subnet**: `10.8.2.0/24`
 - **Private Subnet**: `10.8.12.0/24`
 
-### AZ-a (Additional)
+### AZ-c
 - **Public Subnet**: `10.8.3.0/24`
 - **Private Subnet**: `10.8.13.0/24`
 
