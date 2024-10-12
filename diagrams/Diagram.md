@@ -17,12 +17,9 @@
 - **Public Subnet**: `10.8.3.0/24`
 - **Private Subnet**: `10.8.13.0/24`
 
-![alt text](image.png)
+![alt text](image-1.png)
+
+https://lucid.app/lucidchart/7382af1b-74d8-434e-b8d8-38aa459756b4/edit?invitationId=inv_a60c6934-7290-4e77-872f-b566f59f674f
 
 ![alt text](AWS-VPC-Diagram.jpg)
 
-<<<<<<< HEAD
-=======
-## Click Here:
-https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2t6NXpweWttYnMwb2p0bzhvYnAwM2p0czcyemd0Y2ZoZWx5Y2dudiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4TOLclVSxExTCjaqV7/giphy.webp
->>>>>>> 5d93084067f62f8c7fdb320dc9bc9387eb208255
